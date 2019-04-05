@@ -1,16 +1,17 @@
 Expt 11: Matrix chain multiplication
+https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/
 
-
-Expt 12: Knapsack problem (fractional and 0/1) using greedy algorithm
-
+Expt 12: Fractional knapsack problem using greedy algorithm
+https://www.geeksforgeeks.org/fractional-knapsack-problem/
 
 Expt 13: Job sequencing
 https://www.geeksforgeeks.org/job-sequencing-problem-set-1-greedy-algorithm/
 
 Expt 14: Minimum Spanning Tree (Kruskal's algorithm) using greedy method
+https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
 
+Expt 15: Knapsack 0/1 problem using DP
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
 
-Expt 15: 
-
-
-Expt 16: 
+Expt 16: Multi-stage graph
+https://www.geeksforgeeks.org/multistage-graph-shortest-path/
